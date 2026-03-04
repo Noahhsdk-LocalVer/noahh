@@ -60,7 +60,7 @@ jobs:
         target: win
         use-ccache: ${{ github.event_name != 'workflow_dispatch' || inputs.use-ccache }}
 
-    - name: Setup CLI
+    - name: Setup CLI 
       uses: Noahhsdk-LocalVer/cli/.github/actions/setup@main
 
     - name: Download xwin
