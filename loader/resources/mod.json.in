@@ -6,13 +6,13 @@
         "android": "*",
         "ios": "*"
     },
-    "id": "noahh.loader",
+    "id": "geode.loader",
     "version": "@PROJECT_VERSION@@PROJECT_VERSION_SUFFIX@",
     "name": "Noahh",
     "developer": "Noahh Team",
     "description": "The Noahh mod loader",
     "links": {
-        "community": "https://discord.com/invite/9e43WMKzhp",
+        "community": "https://discord.com/invite/aKhJ7YyAk2",
         "homepage": "https://noahh-sdk.org",
         "source": "https://github.com/noahh-sdk/noahh"
     },
