@@ -6,7 +6,7 @@
         "android": "*",
         "ios": "*"
     },
-    "id": "noahh.loader",
+    "id": "geode.loader",
     "version": "@PROJECT_VERSION@@PROJECT_VERSION_SUFFIX@",
     "name": "Noahh",
     "developer": "Noahh Team",
